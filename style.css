@@ -66,27 +66,36 @@ nav li a{
 .bonus{
     margin-bottom: 10px;
 }
+.img{
+    width: 600px;
+}
 .btn{
     background-color: rgba(241, 244, 242, 0.781);
     color: #0c0b0b;
     font-size: 18px;
-    padding: 5px 130px;
-    border: none;
-    border-radius: 5px;
+    padding: 12px 130px;
+    border: 1px solid rgb(63, 156, 231);
+    border-radius: 10px;
     cursor: pointer;
+    margin-top: 20px;
 }
 
 .btn:hover{
     background-color: rgba(41, 210, 139, 0.781);
     color: #0c0b0b;
     font-size: 18px;
-    padding: 5px 130px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
 }
+.list ul li{
+    list-style: none;
+    margin-top: 10px;
+    color:#afff53 ;
+    font-size: 16px;
+}
 .sectionone{
-    margin-top: 150px;
+    margin-top: 40px;
     margin-left: 30px;
     color: #fdfafa;
    
@@ -113,12 +122,12 @@ nav li a{
 }
 footer{
     
-    margin-top: 200px;
+    margin-top: 20px;
     
 }
 @media only screen and (max-width: 768px) {
     .sectionone{
-        margin-top: 80px;
+        margin-top: 20px;
     }
     .img{
         width: 90%;
