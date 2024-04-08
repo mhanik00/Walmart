@@ -73,11 +73,12 @@ nav li a{
     background-color: rgba(241, 244, 242, 0.781);
     color: #0c0b0b;
     font-size: 18px;
-    padding: 12px 110px;
+    padding: 12px ;
     border: 1px solid rgb(63, 156, 231);
     border-radius: 10px;
     cursor: pointer;
     margin-top: 20px;
+    width: 300px;
 }
 
 .btn:hover{
