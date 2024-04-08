@@ -136,7 +136,10 @@ footer{
    }
    nav li a{
     font-size: 14px;
-    display: inline;
+     margin: 0px;
+   }
+   nav ul li{
+    margin: 0 5px;
    }
   }
   
