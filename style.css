@@ -91,8 +91,7 @@ nav li a{
 .list ul li{
     list-style: none;
     margin-top: 10px;
-    color:#afff53 ;
-    font-size: 16px;
+    font-size: 19px;
 }
 .sectionone{
     margin-top: 40px;
@@ -109,6 +108,7 @@ nav li a{
 .text{
     margin-right: 30px;
     font-size: 22px;
+    margin-top: 20px;
 }
 .text ul{
     margin-left: 20px;
@@ -140,7 +140,7 @@ footer{
     }
    .text{
     font-size: 18px;
-    margin-top: 80px;
+    margin-top: 30px;
  
    }
    nav li a{
