@@ -70,7 +70,7 @@ nav li a{
     width: 600px;
 }
 .btn{
-    background-color: rgba(241, 244, 242, 0.781);
+    background-color: rgba(250, 66, 220, 0.781);
     color: #0c0b0b;
     font-size: 18px;
     padding: 12px ;
@@ -152,4 +152,33 @@ footer{
     margin: 0 5px;
    }
   }
-  
+  .add{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin-left: 30px;
+  }
+  .add input{
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid rgb(63, 156, 231);
+    border-radius: 5px;
+  }
+.log{
+    background-color: rgba(41, 210, 139, 0.781);
+    color: #0c0b0b;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    width: 300px;
+    margin-left: 30px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.add h2{
+    color: whitesmoke;
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
